@@ -1,0 +1,1 @@
+1) Construiría 2 modulos, uno que contenga la funcion para convertir de decimal a hexadecimal y otra que contenga el test para dicha funcion. Si es necesario crear un interfaz, agregaria 2 modulos mas que seria interface y su test.
