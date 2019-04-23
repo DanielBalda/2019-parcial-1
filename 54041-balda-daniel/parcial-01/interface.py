@@ -2,6 +2,7 @@ from decimal_to_hexadecimal import convert
 
 def main():
     number = input("Ingrese un numero entero :")
+    print ("Numero Ingresado: ", number)
     print(esnumero(number))
 
 def esnumero(number):
